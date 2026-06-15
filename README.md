@@ -34,7 +34,7 @@ Jalankan perintah-perintah berikut secara berurutan di terminal/VPS Anda untuk m
 
 ```bash
 # 1. Clone repositori ini ke lokal atau VPS Anda
-git clone [https://github.com/mzpenk/discord-gempa-bot.git](https://github.com/mzpenk/discord-gempa-bot.git)
+git clone https://github.com/mzpenk/discord-gempa-bot.git
 
 # 2. Masuk ke dalam direktori proyek
 cd nama-repo
